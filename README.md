@@ -1,5 +1,22 @@
 # next-gen-usabilty
 This is the repository for artifacts described in the paper - Why Johnny Signs with Next-Generation Tools: A Usability Case Study of Sigstore
+## Table of Contents
+
+- [Codebook](#codebook)
+- [Codebook Evolution](#codebook-evolution)
+  - [EVOLUTION OF CODEBOOK-TOOLING](#evolution-of-codebook-tooling)
+  - [Evolution of Codebook-ALL](#evolution-of-codebook-all)
+- [Raters and Reliability](#raters-and-reliability)
+  - [Rater A](#rater-a)
+  - [Rater B](#rater-b)
+  - [Reliability (Rater A - Rater B)](#reliability-rater-a---rater-b)
+- [Code Frequency](#code-frequency)
+  - [CODE PER SUBJECTS- TOOLING](#code-per-subjects--tooling)
+  - [Code Saturation- (Tooling)](#code-saturation--tooling)
+  - [Code Saturation - ALL](#code-saturation---all)
+- [Theme Definitions](#theme-definitions)
+  - [Tooling Study Theme Definition](#tooling-study-theme-definition)
+
 
 
 # CODEBOOK
@@ -10,10 +27,10 @@ This spreadsheet contains data, coding frameworks, and analysis results from the
 Contains the finalized coding scheme used in the analysis of qualitative data. It defines each code and categorizes them under major themes such as Technological, Organizational, Human, and Macroenvironmental factors.
 
 ## 🔄 EVOLUTION OF CODEBOOK-TOOLING
-Tracks the iterative development and refinement of the codebook specifically for the tooling study. This includes initial codes, revisions, and rationale behind changes.
+Tracks the iterative development and refinement of the codebook specifically for the tooling (usability) study. This includes initial codes, revisions, and rationale behind changes.
 
 ## 🔄 Evolution of Codebook-ALL
-Similar to the tooling-specific evolution, but covers the broader study if multiple sub-studies were conducted. Shows the holistic evolution of all codebooks.
+Similar to the tooling-specific evolution, but covers the broader study (covering Parts B & C of transcript) if multiple sub-studies were conducted. Shows the holistic evolution of all codes in the broader study.
 
 ## 👩‍⚖️ Rater A  
 ## 👨‍⚖️ Rater B
@@ -29,7 +46,7 @@ Aggregates which codes were assigned to each subject (participant) in the toolin
 Analyzes the point at which thematic saturation was reached during the tooling interviews. Shows how many new codes emerged over successive interviews.
 
 ## 📊 Code Saturation - ALL
-Same as above but for the entire dataset across different sub-studies (not just tooling). Indicates the completeness of thematic coverage.
+Same as above but for the entire dataset across different sub-studies (not just our usability study). Indicates the completeness of thematic coverage.
 
 ## 🧩 Tooling Study Theme Definition
 Provides detailed definitions and explanations for each theme specific to the tooling study. Acts as a reference for interpreting the codes used.
