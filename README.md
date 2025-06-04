@@ -3,9 +3,10 @@ This is the repository for artifacts described in the paper - Why Johnny Signs w
 ## Table of Contents
 
 - [Codebook](#codebook)
-  - [Codebook Evolution](#codebook-evolution)
-    - [EVOLUTION OF CODEBOOK-TOOLING](#evolution-of-codebook-tooling)
-    - [Evolution of Codebook-ALL](#evolution-of-codebook-all)
+  - [Codebook](#codebook)
+  - [Codebook Evolution](#evolution-of-codebook-tooling)
+  - [EVOLUTION OF CODEBOOK-TOOLING](#evolution-of-codebook-tooling)
+  - [Evolution of Codebook-ALL](#evolution-of-codebook-all)
   - [Raters and Reliability](#raters-and-reliability)
     - [Rater A](#rater-a)
     - [Rater B](#rater-b)
@@ -17,21 +18,34 @@ This is the repository for artifacts described in the paper - Why Johnny Signs w
   - [Theme Definitions](#theme-definitions)
     - [Tooling Study Theme Definition](#tooling-study-theme-definition)
       
-- [Interview Protocol](#Interview Protocol)
+- [Interview Protocol](#Interview--Protocol)
+  
 - [Technical Report](#Technical-Report)
+- [Appendix & Technical Report Notes](#appendix--technical-report-notes)
+  - [Data Correction and Alignment Notice](#data-correction-and-alignment-notice)
+  - [Summary of Appendix Items](#summary-of-appendix-items)
+    - [Appendix A – Interview Protocol Summary](#appendix-a--interview-protocol-summary)
+    - [Appendix B – Codebook by TPOM Factors](#appendix-b--codebook-by-tpom-factors)
+    - [Appendix C – Saturation Plot](#appendix-c--saturation-plot)
+    - [Appendix D – Reported Advantages of Sigstore](#appendix-d--reported-advantages-of-sigstore)
+    - [Appendix E – Reported Challenges with Sigstore](#appendix-e--reported-challenges-with-sigstore)
+    - [Appendix F – Signing Tool Evolution Sankey Diagram](#appendix-f--signing-tool-evolution-sankey-diagram)
+    - [Appendix G – Sigstore Component Usage Table](#appendix-g--sigstore-component-usage-table)
+    - [Appendix H – Reasons for Not Adopting Sigstore](#appendix-h--reasons-for-not-adopting-sigstore)
+
 
 
 # CODEBOOK
 
 This spreadsheet contains data, coding frameworks, and analysis results from the study *"Why Johnny Signs with Next-Generation Tools."* Below is a summary of each sheet in the workbook:
 
-## 📘 Codebook
+## Codebook
 Contains the finalized coding scheme used in the analysis of our coded interviews. It defines each code and categorizes them under major themes such as Technological, Organizational, Human, and Macroenvironmental factors.
 
-## 🔄 EVOLUTION OF CODEBOOK-TOOLING
+## EVOLUTION OF CODEBOOK TOOLING
 Tracks the iterative development and refinement of the codebook specifically for the tooling (usability) study. This includes initial codes, revisions, and rationale behind changes.
 
-## 🔄 Evolution of Codebook-ALL
+## Evolution of Codebook-ALL
 Similar to the tooling-specific evolution, but covers the broader study (covering Parts B & C of transcript) if multiple sub-studies were conducted. Shows the holistic evolution of all codes in the broader study.
 
 ## 👩‍⚖️ Rater A  
