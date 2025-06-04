@@ -1,22 +1,24 @@
-# next-gen-usabilty
+# Next-generation-usabilty
 This is the repository for artifacts described in the paper - Why Johnny Signs with Next-Generation Tools: A Usability Case Study of Sigstore
 ## Table of Contents
 
 - [Codebook](#codebook)
-- [Codebook Evolution](#codebook-evolution)
-  - [EVOLUTION OF CODEBOOK-TOOLING](#evolution-of-codebook-tooling)
-  - [Evolution of Codebook-ALL](#evolution-of-codebook-all)
-- [Raters and Reliability](#raters-and-reliability)
-  - [Rater A](#rater-a)
-  - [Rater B](#rater-b)
-  - [Reliability (Rater A - Rater B)](#reliability-rater-a---rater-b)
-- [Code Frequency](#code-frequency)
-  - [CODE PER SUBJECTS- TOOLING](#code-per-subjects--tooling)
-  - [Code Saturation- (Tooling)](#code-saturation--tooling)
-  - [Code Saturation - ALL](#code-saturation---all)
-- [Theme Definitions](#theme-definitions)
-  - [Tooling Study Theme Definition](#tooling-study-theme-definition)
-
+  - [Codebook Evolution](#codebook-evolution)
+    - [EVOLUTION OF CODEBOOK-TOOLING](#evolution-of-codebook-tooling)
+    - [Evolution of Codebook-ALL](#evolution-of-codebook-all)
+  - [Raters and Reliability](#raters-and-reliability)
+    - [Rater A](#rater-a)
+    - [Rater B](#rater-b)
+    - [Reliability (Rater A - Rater B)](#reliability-rater-a---rater-b)
+  - [Code Frequency](#code-frequency)
+    - [CODE PER SUBJECTS- TOOLING](#code-per-subjects--tooling)
+    - [Code Saturation- (Tooling)](#code-saturation--tooling)
+    - [Code Saturation - ALL](#code-saturation---all)
+  - [Theme Definitions](#theme-definitions)
+    - [Tooling Study Theme Definition](#tooling-study-theme-definition)
+      
+- [Interview Protocol](#Interview Protocol)
+- [Technical Report](#Technical-Report)
 
 
 # CODEBOOK
@@ -24,7 +26,7 @@ This is the repository for artifacts described in the paper - Why Johnny Signs w
 This spreadsheet contains data, coding frameworks, and analysis results from the study *"Why Johnny Signs with Next-Generation Tools."* Below is a summary of each sheet in the workbook:
 
 ## 📘 Codebook
-Contains the finalized coding scheme used in the analysis of qualitative data. It defines each code and categorizes them under major themes such as Technological, Organizational, Human, and Macroenvironmental factors.
+Contains the finalized coding scheme used in the analysis of our coded interviews. It defines each code and categorizes them under major themes such as Technological, Organizational, Human, and Macroenvironmental factors.
 
 ## 🔄 EVOLUTION OF CODEBOOK-TOOLING
 Tracks the iterative development and refinement of the codebook specifically for the tooling (usability) study. This includes initial codes, revisions, and rationale behind changes.
@@ -51,3 +53,49 @@ Same as above but for the entire dataset across different sub-studies (not just 
 ## 🧩 Tooling Study Theme Definition
 Provides detailed definitions and explanations for each theme specific to the tooling study. Acts as a reference for interpreting the codes used.
 
+#Interview-Protocol
+Filename--Interview-Protocol.pdf
+This summarizes our interview protocol for the entire study, we only analyze topic D in this study. 
+
+
+#Technical-Report
+## Appendix & Technical Report Notes
+
+This technical report is an **extended version** of our paper submitted to the *ACM/IEEE Automated Software Engineering (ASE) Conference)*. It contains additional detail, supporting data, and clarifications meant to complement the main submission.
+
+### Data Correction and Alignment Notice
+
+We identified and corrected subject misalignments in the version submitted to ASE. Specifically, participant identifiers were incorrectly mapped in Tables III, IV, and V. Below are the corrected mappings:
+
+#### Table III & IV (Participant ID Reassignments)
+- **P8 → P9**  
+- **P9 → P12**  
+- **P10 → P14**  
+- **P11 → P15**  
+- **P12 → P16**  
+- **P13 → P17**
+
+#### Table V (Non-Sigstore User IDs)
+- **S8 → P8**  
+- **S11 → P11**  
+- **S10 → P10**  
+- **S13 → P13**
+
+We sincerely apologize for these issues and have corrected them throughout this technical report to ensure accuracy.
+
+---
+
+### Summary of Appendix Items
+
+| Appendix | Description |
+|----------|-------------|
+| **Appendix A** | Interview protocol summary outlining each of the major thematic question areas. |
+| **Appendix B** | Full codebook used in thematic analysis, categorized by TPOM (Technological, People, Organizational, Macroenvironmental) factors. |
+| **Appendix C** | Saturation plot showing the accumulation of new codes per interview, justifying sample adequacy. |
+| **Appendix D** | Detailed list of participant-reported **advantages** of Sigstore. |
+| **Appendix E** | Detailed list of participant-reported **challenges** or **limitations** while using Sigstore. |
+| **Appendix F** | Sankey diagram of participants' signing tool usage over time, illustrating migration paths toward or away from Sigstore. |
+| **Appendix G** | Table showing participant use of specific Sigstore components (Cosign, Rekor, Fulcio, etc.). |
+| **Appendix H** | Summary of reasons non-Sigstore users have not adopted Sigstore, including tool-specific and organizational rationale. |
+
+This extended documentation is intended to increase transparency, reproducibility, and completeness of our findings for the community.
