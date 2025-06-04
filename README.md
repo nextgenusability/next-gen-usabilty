@@ -102,13 +102,16 @@ We sincerely apologize for these issues and have corrected them throughout this 
 
 | Appendix | Description |
 |----------|-------------|
-| **Appendix A** | Interview protocol summary outlining each of the major thematic question areas. |
-| **Appendix B** | Full codebook used in thematic analysis, categorized by TPOM (Technological, People, Organizational, Macroenvironmental) factors. |
-| **Appendix C** | Saturation plot showing the accumulation of new codes per interview, justifying sample adequacy. |
-| **Appendix D** | Detailed list of participant-reported **advantages** of Sigstore. |
-| **Appendix E** | Detailed list of participant-reported **challenges** or **limitations** while using Sigstore. |
-| **Appendix F** | Sankey diagram of participants' signing tool usage over time, illustrating migration paths toward or away from Sigstore. |
-| **Appendix G** | Table showing participant use of specific Sigstore components (Cosign, Rekor, Fulcio, etc.). |
-| **Appendix H** | Summary of reasons non-Sigstore users have not adopted Sigstore, including tool-specific and organizational rationale. |
+| Appendix A | Overview of traditional software signing workflows. |
+| Appendix B | Full interview protocol used to guide participant interviews. |
+| Appendix C | Sample codebooks used in our thematic analysis, with illustrative quotes mapped to each code. |
+| Appendix D | Code saturation plot and explanation, showing how themes stabilized over interviews. |
+| Appendix E | Raw survey results omitted from the main paper due to data quality concerns. |
+| Appendix F | Table showing Sigstore components most commonly used by our participants. |
+| Appendix G | Expanded demographic table showing participant backgrounds and roles. |
+| Appendix H | Tabular summary of factors influencing Sigstore adoption among Sigstore users (prior to adoption). |
+| Appendix I | Tabular summary of factors influencing non-Sigstore users’ consideration or rejection of Sigstore. |
+| Appendix J | Additional discussions and implications of our results not included in the main paper. |
+| Appendix K | High-resolution, legible image of Sigstore workflow referenced in the main paper (as Figure 3.). |
 
 This extended documentation is intended to increase transparency, reproducibility, and completeness of our findings for the community.
