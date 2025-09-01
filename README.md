@@ -19,18 +19,6 @@ This is the repository for artifacts described in the paper - Why Johnny Signs w
       
 - [Interview Protocol](#interview-protocol)
   
-- [Technical Report](#technical-report)
-- [Appendix & Technical Report Notes](#appendix--technical-report-notes)
-  - [Data Correction and Alignment Notice](#data-correction-and-alignment-notice)
-  - [Summary of Appendix Items](#summary-of-appendix-items)
-    - [Appendix A – Interview Protocol Summary]()
-    - [Appendix B – Codebook by TPOM Factors]()
-    - [Appendix C – Saturation Plot]()
-    - [Appendix D – Reported Advantages of Sigstore]()
-    - [Appendix E – Reported Challenges with Sigstore]()
-    - [Appendix F – Signing Tool Evolution Sankey Diagram]()
-    - [Appendix G – Sigstore Component Usage Table]()
-    - [Appendix H – Reasons for Not Adopting Sigstore]()
 
 
 # CODEBOOK
@@ -66,52 +54,6 @@ Same as above but for the entire dataset across different sub-studies (not just 
 Provides detailed definitions and explanations for each theme specific to the tooling study. Acts as a reference for interpreting the codes used.
 
 # Interview Protocol
-Filename--Interview-Protocol.pdf
-This summarizes our interview protocol for the entire study, we only analyze topic D in this study. 
+Our interview protocol is fully given in Appendix B of the paper. 
 
 
-# Technical Report
-Filename - Technical_Report_.pdf
-## Appendix & Technical Report Notes
-
-This technical report is an **extended version** of our paper submitted to the *ACM/IEEE Automated Software Engineering (ASE) Conference)*. It contains additional detail, supporting data, and clarifications meant to complement the main submission.
-
-### Data Correction and Alignment Notice
-
-We identified and corrected subject misalignments in the version submitted to ASE. Specifically, participant identifiers were incorrectly mapped in Tables III, IV, and V. Below are the corrected mappings:
-
-#### Table III & IV (Participant ID Reassignments)
-- **P8 → P9**  
-- **P9 → P12**  
-- **P10 → P14**  
-- **P11 → P15**  
-- **P12 → P16**  
-- **P13 → P17**
-
-#### Table V (Non-Sigstore User IDs)
-- **S8 → P8**  
-- **S11 → P11**  
-- **S10 → P10**  
-- **S13 → P13**
-
-We sincerely apologize for these issues and have corrected them throughout this technical report to ensure accuracy.
-
----
-
-### Summary of Appendix Items
-
-| Appendix | Description |
-|----------|-------------|
-| Appendix A | Overview of traditional software signing workflows. |
-| Appendix B | Full interview protocol used to guide participant interviews. |
-| Appendix C | Sample codebooks used in our thematic analysis, with illustrative quotes mapped to each code. |
-| Appendix D | Code saturation plot and explanation, showing how themes stabilized over interviews. |
-| Appendix E | Raw survey results omitted from the main paper due to data quality concerns. |
-| Appendix F | Table showing Sigstore components most commonly used by our participants. |
-| Appendix G | Expanded demographic table showing participant backgrounds and roles. |
-| Appendix H | Tabular summary of factors influencing Sigstore adoption among Sigstore users (prior to adoption). |
-| Appendix I | Tabular summary of factors influencing non-Sigstore users’ consideration or rejection of Sigstore. |
-| Appendix J | Additional discussions and implications of our results not included in the main paper. |
-| Appendix K | High-resolution, legible image of Sigstore workflow referenced in the main paper (as Figure 3.). |
-
-This extended documentation is intended to increase transparency, reproducibility, and completeness of our findings for the community.
